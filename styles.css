@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+
+footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+header{
+    background-color:black;
+    color: white;
+    padding: 15px;
+    padding-left: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.tabla{
+    text-align: center;
+    font-size: large;
+    padding: 15px;
+    display: flex;
+
+}
+
+.conocimientos{
+    text-align: center;
+    display: flex;
+    padding-left: 25%;
+}
+
+.entretenimiento, .pareja, .gatos{
+    display: flex;
+}
+
